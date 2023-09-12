@@ -1,2 +1,2 @@
-rootProject.name = "Playbours"
+rootProject.name = "Playbours_Spring"
 
